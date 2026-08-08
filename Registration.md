@@ -12,4 +12,7 @@ Address :
 
 Pin code :
 
- Location:
+Location:
+
+Captcha
+
