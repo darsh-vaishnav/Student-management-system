@@ -14,5 +14,5 @@ Pin code :
 
 Location:
 
-Captcha
+Captcha:
 
